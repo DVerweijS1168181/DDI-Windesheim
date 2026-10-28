@@ -1,0 +1,141 @@
+﻿Word,Label
+beek,Water
+rivier,Water
+zee,Water
+meer,Water
+oever,Water
+regenwater,Water
+grondwater,Water
+afwatering,Water
+waterval,Water
+vijver,Water
+fiets,Mobiliteit
+scooter,Mobiliteit
+metro,Mobiliteit
+bus,Mobiliteit
+tram,Mobiliteit
+zebrapad,Mobiliteit
+rotonde,Mobiliteit
+taxi,Mobiliteit
+snelbus,Mobiliteit
+hoofdweg,Mobiliteit
+recycling,Duurzaamheid
+zonnepaneel,Duurzaamheid
+windmolen,Duurzaamheid
+biomassa,Duurzaamheid
+elektrisch,Duurzaamheid
+isolatie,Duurzaamheid
+LED-verlichting,Duurzaamheid
+energiebesparing,Duurzaamheid
+klimaatneutraal,Duurzaamheid
+waterkracht,Duurzaamheid
+stadsplan,Overige
+bevolking,Overige
+cultuur,Overige
+economie,Overige
+onderwijs,Overige
+gezondheid,Overige
+veiligheid,Overige
+infrastructuur,Overige
+regering,Overige
+belasting,Overige
+delta,Water
+waterbassin,Water
+waterzuivering,Water
+stroming,Water
+overstroming,Water
+waterschap,Water
+drainage,Water
+hydrosfeer,Water
+aquifer,Water
+zoutwater,Water
+zoetwater,Water
+watercyclus,Water
+waterkwaliteit,Water
+irrigatie,Water
+waterstand,Water
+waterreservoir,Water
+besproeiing,Water
+verdamping,Water
+condensatie,Water
+neerslag,Water
+carpool,Mobiliteit
+vervoer,Mobiliteit
+spits,Mobiliteit
+autoverkeer,Mobiliteit
+fietspad,Mobiliteit
+luchthaven,Mobiliteit
+scheepvaart,Mobiliteit
+openbaar vervoer,Mobiliteit
+voetganger,Mobiliteit
+scootmobiel,Mobiliteit
+vrachtwagen,Mobiliteit
+vliegtuig,Mobiliteit
+haven,Mobiliteit
+spoorlijn,Mobiliteit
+parkeerplaats,Mobiliteit
+autoweg,Mobiliteit
+snelverkeer,Mobiliteit
+verkeerslicht,Mobiliteit
+perron,Mobiliteit
+stationsplein,Mobiliteit
+biologisch,Duurzaamheid
+duurzame ontwikkeling,Duurzaamheid
+compostering,Duurzaamheid
+ecosysteemdiensten,Duurzaamheid
+geothermie,Duurzaamheid
+groene energie,Duurzaamheid
+milieuvriendelijk,Duurzaamheid
+natuurbehoud,Duurzaamheid
+omgevingsbewust,Duurzaamheid
+afvalvermindering,Duurzaamheid
+energie-efficiëntie,Duurzaamheid
+duurzaam bouwen,Duurzaamheid
+organisch,Duurzaamheid
+permacultuur,Duurzaamheid
+ecologisch ontwerp,Duurzaamheid
+groen dak,Duurzaamheid
+circulaire economie,Duurzaamheid
+duurzaam consumeren,Duurzaamheid
+bio-energie,Duurzaamheid
+groenbeheer,Duurzaamheid
+stadsontwikkeling,Overige
+sociale rechtvaardigheid,Overige
+openbare ruimte,Overige
+stadsvernieuwing,Overige
+openbare diensten,Overige
+stedenbouw,Overige
+demografie,Overige
+volkshuisvesting,Overige
+gemeenschapscentrum,Overige
+cultureel erfgoed,Overige
+politieke stabiliteit,Overige
+stedelijke planning,Overige
+sociaal beleid,Overige
+openbaar bestuur,Overige
+burgerparticipatie,Overige
+beleidsvorming,Overige
+stedelijke economie,Overige
+maatschappelijk werk,Overige
+stedelijk landschap,Overige
+publieke sector,Overige
+armoede,Armoede
+bijstand,Armoede
+schulden,Armoede
+inkomen,Armoede
+schuldbemiddeling,Armoede
+sociaal minimum,Armoede
+bijzondere bijstand,Armoede
+uitkering,Armoede
+minima,Armoede
+schuldenregeling,Armoede
+bijstandsuitkering,Armoede
+energietoeslag,Armoede
+huurschuld,Armoede
+kredietachterstand,Armoede
+inkomensondersteuning,Armoede
+schulddienstverlening,Armoede
+budgetbeheer,Armoede
+financiële nood,Armoede
+armoedegrens,Armoede
+schuld,Armoede
